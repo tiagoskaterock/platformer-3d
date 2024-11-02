@@ -7,6 +7,4 @@
 
 - Utiliza Godot Engine
 
-#### 
 <img src="1.png" alt="Platformer" />
-<img src="2.png" alt="Platformer" />
